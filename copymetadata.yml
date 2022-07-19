@@ -1,0 +1,9 @@
+name: "Copy MetaData from Scene to Scene"
+sceneByFragment:
+  action: script
+  script:
+      - python3
+      - copymetadata.py
+      - query
+
+# Last Updated July 19, 2022
